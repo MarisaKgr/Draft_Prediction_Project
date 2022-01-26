@@ -5,6 +5,9 @@ https://deepzissou.github.io/Draft_Prediction_Project/
 ## Overview
 Develop a Machine Learning model to predict if a basketball player will go professional based on their player stats.
 
+## Contributors
+Dwayne Jordan, Galen Kellner, Marisa Kiger, Thomas Martin
+
 ## Data Collection – Finding Big Data
 Web-scraping code was used to scrape data from the site Sports Reference https://www.sports-reference.com/.  The code was specified to pull data for eleven key player stat parameters: 
 * ### fgapg = Field goal attempts per game
